@@ -15,6 +15,6 @@
 
 #### 📬 Let's Connect:
 
-Feel free to reach out for collaboration, networking, or just to have a tech chat! You can find me here on GitHub, [https://www.linkedin.com/in/huy-pham-b93328192/], or drop me an email at [tronghuy5555@gmail.com].
+Feel free to reach out for collaboration, networking, or just to have a tech chat! You can find me here on GitHub, https://www.linkedin.com/in/huy-pham-b93328192/, or drop me an email at tronghuy5555@gmail.com.
 
 Let's code and create together! 🚀
